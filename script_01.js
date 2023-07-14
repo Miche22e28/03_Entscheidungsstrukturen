@@ -27,13 +27,23 @@ console.log("------------------");
 
 // Fake it, `till you make it!
 // if(isJohnOlder)
-if(iageJohn > ageMark)
-{
-    console.log("John ist älter.");
-}
+// if(iageJohn > ageMark)
+// {
+//     console.log("John ist älter.");
+// }
+
 
 /************ IF - ELSE ************/
 
 // mit Alternative
 
 // entweder ja oder nein
+
+if(ageJohn > ageMark)
+{
+    console.log("John ist äter.");
+}
+else
+{
+    console.log("John ist jünger.");
+}
